@@ -5,6 +5,8 @@ This script was generated in a conversation with ChatGPT: https://chat.openai.co
 Currently, it generates `.remap` files that quantize the input signal onto intervals of different chords.
 <img width="387" alt="chords" src="https://github.com/CrushedPixel/KiloheartsRemapperGenerator/assets/10288753/bf44c990-091d-4df0-a945-2d8d45f8f6b7">
 
+The generated `.remap` files can be downloaded from this repository under `KiloheartsRemapChords.zip`
+
 List of all files generated:
 ```
 7Sus4.remap
@@ -38,7 +40,6 @@ Dominant9WithOctave.remap
 HalfDiminished.remap
 HalfDiminishedTwoOctaves.remap
 HalfDiminishedWithOctave.remap
-KiloheartsRemapChords.zip
 Major.remap
 Major11.remap
 Major11WithOctave.remap
